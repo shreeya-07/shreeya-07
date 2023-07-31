@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreeya Chattopadhyay
 ====================================================================================================================================
 
-<img src= "20230530_1451241.gif" alt="coding"><br>
+<img src= "Shreeya Chattopadhyay.png" alt="coding"><br>
 
 
 I am a competitive coder and an aspiring front end developer from India

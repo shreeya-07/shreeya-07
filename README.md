@@ -24,7 +24,7 @@ I am a competitive coder and an aspiring front end developer from India
 
 - 📫 How to reach me **shreeyachattopadhyay@gmail.com**
 
-- ⚡ Fun fact **Code,Code,Code..I don't like it, I avoid, but Code likes me, I can't avoid.**
+- ⚡ Fun fact **I am funny 🙃**
 
 
 ## 🌐 Socials:

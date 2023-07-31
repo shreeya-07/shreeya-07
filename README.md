@@ -13,6 +13,9 @@ I am a competitive coder and an aspiring front end developer from India
 -----------------------------------------------------------------------
 
 
+<img src = "code-2.gif" alt="coding" align = "right" width="40%" height="80%">
+
+
 - 🔭 I’m currently working on **Front-End Development**
   
 - 🌍  I'm based in Bandel,Hooghly,West Bengal,India

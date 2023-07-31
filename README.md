@@ -3,12 +3,15 @@
 shreeya-07/shreeya-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreeya Chattopadhyay
+====================================================================================================================================
+
+<img src= "20230530_1451241.gif" alt="coding"><br>
 
 
-<h1 align="center">Hi 👋, I'm Shreeya Chattopadhyay</h1>
-<h3 align="center">I am a Competitive Coder and a Front-End Developer from India</h3>
+I am a competitive coder and an aspiring front end developer from India
+-----------------------------------------------------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeya-07&label=Profile%20views&color=1a87cb&style=flat-square" alt="shreeya-07" /> </p>
 
 - 🔭 I’m currently working on **Front-End Development**
   
